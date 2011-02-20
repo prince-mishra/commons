@@ -1,0 +1,35 @@
+310254: SOFTWARE LABORATORY
+Teaching Scheme Examination Scheme Practical: 4 Hrs/Week                                                         Term Work: 25 Marks
+Practical: 50 Marks
+Group A
+JAVA (at least 5 assignments)
+1) Assignment(s) to understand object oriented features in Java such as classes, objects and methods Vectors, strings, Inheritance, access specifies
+, Multiple Inheritance and Exception Handling
+2)   Write a simple Applet to illustrate event handling with interactive radio buttons to control font style of a text field. Also provide a text box wherein the user may enter font size.
+3)   Multi-threading (Displaying an animated clock showing day, date and time using threads)
+4)   Write a program to retrieve data from some database table(s) using JDBC
+5)   Write a simple Echo server using Sockets
+LISP (at least 2 assignments)
+•    Assignment based on LISP functions
+•    Line editor using LISP
+Group B: (at least 6 assignments)
+1)   Design suitable data structures and develop a subset of an assembler for 8 or 16 bit microprocessor. Subset should consist of a few instructions from each category and few assembler directives
+2)   Design suitable data structures and develop a subset of a macro assembler for 8 or 16 bit microprocessor. Facilities such as Nested Macro, Labels within Macro, Macro Parameters, Conditional Macro Expansion, Macro Operators (%, &,<...> etc) to be supported. Use Turbo Librarian to build and use your library code modules
+3)   Write a program to demonstrate DOS Memory Management Mechanism
+4)   Write a Dynamic Link Library and Test it
+5)   Design and Implement any simple application using Word/Excel Macros.
+6)   Using Windows API, develop any simple application such as Getting and setting Windows Information, System Colors, Running a Program/File, Shutting down Windows
+Group C (At Least 3)
+1. Write a program to demonstrate the creation and use of Custom attributes and other features of C#.
+2.   Write a program to demonstrate the use of delegates, callbacks, and synchronous and asynchronous method invocation.
+3.   Create a screen saver application using GDI+ in C#.
+4.   Write a program Using a File System Watcher Component in a Windows Form with C# Demonstrates how the File System Watcher Class monitors the file system and raises events whenever a specified Directory or file within a specified Directory changes.
+Instructions:
+•    Instructor should frame assignments based on the assignments as given above. Students should submit Term Work in the form of a journal that should include at least 16 assignments. Each assignment should consist of paper design, write-up, algorithm, program listing with proper documentation and printout of the output.
+•    Practical Examination will be based on the assignments from Group A & B only and questions will be asked to judge understanding of assignments performed at the time of examination.
+Reference Books:
+1.   Eckel B., "Thinking in Java", 3rd Edition, Pearson Education, 81 - 297 - 0524 - 9
+2.   Winston P., Klaus B., Horn P., "LISP", 3rd Edition, Pearson Education, 81 - 7808 -155-5
+3.   Balagurusamy E., "Programing with C#", Tata McGraw-Hill, 2002, ISBN 0 - 07 -047339 - 0
+4.   Schneider D., "An Introduction to Programming Using Visual Basic 6.0", Prentice Hall, 1999, ISBN 0-13-936428-5
+5.   Petzold C., "Programming Windows", 5* Edition, Microsoft Press, 81-7853- 007- 4

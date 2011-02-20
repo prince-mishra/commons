@@ -1,0 +1,114 @@
+310252: SYSTEMS PROGRAMMING
+Teaching Scheme Lectures: 3 Hrs/Week
+Examination Scheme Theory: 100 Marks
+Objectives:
+•    To understand the concepts and components of Systems Programming
+•    To Learn and understand the fundamentals of Compilers
+•    To Learn and understand the fundamentals of Operating systems
+Prerequisites:
+•    Data Structures
+•    Computer Organization
+Unit I (6 Hrs)
+Introduction:   Components   of   System   Software,   Language   Processing   Activities,
+Fundamentals of Language Processing, Development tools
+Assemblers:  Structure of an assembler, Design of Two pass assembler, Single Pass
+Assembler, Cross Assembler
+Macro Processors: Macro Definition and call, Macro expansion, Nested Macro Calls,
+Advanced Macro Facilities, Design of a macro-processor, Case study of MASM
+Unit II (6 Hrs) 
+Linkers and Loaders: Loader Schemes: Compile and go, General Loader Scheme, Absolute loaders, subroutine linkages, relocating loaders, direct linking loader, dynamic linking loader, overlay structure, Design of an Absolute loader, Case study of MS-DOS Linker and Debug Dynamic Linking: Dynamic Link Libraries-their need, conventional dynamic linking libraries, the class library, dynamic linking, DLL's, use of call back functions, Dynamic linking with and without import
+Unit III (6 Hrs) 
+Compilers and Interpreters: Overview of Compilation process, Concepts of Pass, Phases, front-end and back-end, Concepts of Bootstrap compiler, cross compiler, incremental compiler and compiler- compiler (Only definitions), Interpreters, comparison of Compilers and Interpreters
+Lexical Analysis and Parsing: Why and what is lexical analysis, design issues, Introduction to parsing, concept of top-down recursive-descendent parsers
+Unit IV (6 Hrs)
+ Operating Systems: Introduction, Evolution of OS, Functions of an OS, Batch Processing Systems, Multi-programming Systems, Time sharing systems, Multitasking systems, Real Time Operating Systems, OS Structure, System Calls, Process, Process Control and Process Scheduling (Job Scheduling, scheduling criteria, scheduling algorithms)
+Unit V (6 Hrs)
+Memory management: Contiguous and non-contiguous, Swapping, Paging, Segmentation
+and demand Paging, Virtual Memory, Management of Virtual memory: allocation, fetch and
+replacement
+Unit VI (6 Hrs)
+I/O Management:  I/O programming, I/O organization, I/O scheduling algorithms, I/O
+buffering
+Fife Management: Concept, Access methods, Directory Structure, Protection, File System
+implementation, Directory Implementation, Allocation methods, Free Space management,
+efficiency and performance
+
+
+
+Textbooks
+1.   Dhamdhere D., "Systems Programming and Operating Systems", 2nd Edition, ' McGraw Hill, 1999, ISBN 0 - 07 - 463579 - 4
+2.   Silberschatz, Galvin, Gagne, "Operating System Concepts", 6th Edition, John W and Sons, ISBN 9812 - 53 - 055 - X
+Reference Books
+1.   Stallings W., "Operating Systems", 4th Edition, Prentice Hall, 81 - 7808 - 503 - 8
+2.   Beck L., "System Software: An Introduction to Systems Programming", 3rd Edit Pearson Education, 1997, ISBN 0-201-43581-0
+3.   Aho A., Sethi R., Ullman J., "Compilers", Pearson Education, 81 - 7808 - 046 - X
+4.   Petzold C., "Programming Windows", 5th Edition, Microsoft Press, 81-7853- 007-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+310253: SOFTWARE ENGINEERING
+Teaching Scheme Lectures: 3 Hrs/week
+Examination Scheme Theory: 100 Marks
+Objectives:
+•    To learn and understand the Concepts of Software Engineering
+•    To apply the principles of Software Engineering for software development
+Unit I (06 Hrs) 
+Introduction To Software Engineering: Software, Software Myths, Process Framework, CMMI, Process Patterns, Process Assessment, Personal and Team Process Models, Process Models: Waterfall Model, Incremental Models, Evolutionary Models, Introduction to specialized Process Models, The Unified Process
+Unit II (06 Hrs) 
+Software Engineering Practice: The Essence of Practice, Core Principles, Communication Practices,   Planning   Practices,   Modeling   Practices:   Analysis   and   Design   Modeling, Construction Practice: Coding and Testing Principals, Deployment System Engineering: Computer-Based Systems, Hierarchy: System Modeling and Simulation, Business Process Engineering, Product Engineering, System Modeling: Hatley-Pirbhai Modeling and Modeling using UML
+
+Unit III (06 Hrs) 
+Requirements Engineering
+Requirements Engineering Tasks, Initiating the process, Eliciting Requirements, Developing Use-Cases, Building The Analysis Model: Requirements Analysis, Data Modeling Concepts, Object-Oriented Analysis, Scenario-Based Analysis, Flow-Oriented Modeling, Class-Based Modeling, Creating a Behavioral Model
+Unit IV (06 Hrs)
+Design Engineering
+Design Process and design quality, Design Concepts, The Design Model, Introduction to
+Pattern-Based Software Design
+Architectural Design: Software Architecture, Data Design and Architectural Design
+User Interface Design: Rules, User Interface Analysis and Steps in Interface Design, Design
+Evaluation
+Unit (06 Hrs) 
+Testing Strategies And Tactics: A Strategic approach to Software Testing, Strategic Issues, Testing Strategy for Conventional Software and Object-Oriented Software, Validation Testing, System Testing, Validation and Verification
+Testing Tactics: Black Box and White Box Testing, Basis Path Testing, Control Structure Testing, Object-Oriented Software Testing Methods
+Unit VI (06 Hrs)
+ Product Metrics: Software Quality, Framework for Product Metrics, Metrics for Analysis Model, Design Model, Metrics for Source Code, Metrics for Testing and maintenance
+Text Books:
+Pressman R., "Software Engineering, A Practitioners Approach", 6th Edition, Tata
+MCGraw Hill Publication,2004,ISBN 007-124083-124083-7
+Reference Books:
+1.   Mall R., "Fundamentals of Software Engineering", Second Edition, Prentice Hall India, 2004, ISBN 81 -203-2445-5
+2.   Vliet H., "Software Engineering Princilpes and Practices", Second Edition, John Wiley and Sons, ISBN 9971-51-357-9
+3.   Ghezzi C., Jazayeri M., Mandrioli D., "Fundamentals of Software Engineering", Second Edition, Prentice Hall India, 2003, ISBN 81-203-2242-6
+4.   Behfarooz A:, Hudson F., "Software Engineering Fundamentals", Oxford University Press, 2002, ISBN 0-19-510539-7
+

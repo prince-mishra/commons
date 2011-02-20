@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ *   Installation file
+ *
+ * @version
+ *   $Id: drupal_tweaks.install,v 1.1.2.4 2010/04/16 11:25:06 kenorb Exp $
+ *
+ * @developers
+ *   Rafal Wieczorek <kenorb@gmail.com>
+ */
+
+/**
+ * Implementation of hook_install().
+ */
+function drupal_tweaks_install() {
+}
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function drupal_tweaks_uninstall() {
+  db_query("DELETE FROM {variable} WHERE name LIKE 'drupal_tweaks_%%'");
+}
+
